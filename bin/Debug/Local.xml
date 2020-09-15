@@ -1,0 +1,9 @@
+<LocalUpdate>
+  <ApplicationStart>IMCISAssistTool.exe</ApplicationStart>
+  <AppName>IMCISAssistTool</AppName>
+  <SilentUpdate>0</SilentUpdate>
+  <LocalVersion>1.1.0.6</LocalVersion>
+  <LocalIgnoreVersion>1.1.0.0</LocalIgnoreVersion>
+  <LastUdpate>2020/9/4 15:18:24</LastUdpate>
+  <ServerUpdateUrl>http://192.168.7.43:18041</ServerUpdateUrl>
+</LocalUpdate>

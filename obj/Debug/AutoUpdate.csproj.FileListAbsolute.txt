@@ -1,0 +1,10 @@
+F:\IMCISPlugin\AutoUpdate\bin\Debug\Local.xml
+F:\IMCISPlugin\AutoUpdate\bin\Debug\AutoUpdate.exe.config
+F:\IMCISPlugin\AutoUpdate\bin\Debug\AutoUpdate.exe
+F:\IMCISPlugin\AutoUpdate\bin\Debug\AutoUpdate.pdb
+F:\IMCISPlugin\AutoUpdate\obj\Debug\AutoUpdate.MainForm.resources
+F:\IMCISPlugin\AutoUpdate\obj\Debug\AutoUpdate.Properties.Resources.resources
+F:\IMCISPlugin\AutoUpdate\obj\Debug\AutoUpdate.UpdateForm.resources
+F:\IMCISPlugin\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache
+F:\IMCISPlugin\AutoUpdate\obj\Debug\AutoUpdate.exe
+F:\IMCISPlugin\AutoUpdate\obj\Debug\AutoUpdate.pdb

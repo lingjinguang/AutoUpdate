@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ServerUpdate>
+  <item>
+    <ApplicationStart>IMCISAssistTool.exe</ApplicationStart>
+    <ApplicationUpdateStart></ApplicationUpdateStart>
+    <AppName>IMCISAssistTool</AppName>
+    <MinVersion>1.0.0.0</MinVersion>
+    <ReleaseDate>2020/9/4 15:18:24</ReleaseDate>
+    <ReleaseUrl>http://192.168.7.43:18043</ReleaseUrl>
+    <ReleaseVersion>1.1.0.6</ReleaseVersion>
+    <VersionDesc>1、Increment$2、hello$3、123456</VersionDesc>
+    <UpdateMode>Increment</UpdateMode>
+  </item>
+</ServerUpdate>
